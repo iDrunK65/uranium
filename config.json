@@ -1,0 +1,16 @@
+{
+    "prefix": ">",
+    "version": "1.0",
+
+    "author": "iDrunK#4166",
+    "authorid": "193758355708182529",
+
+    "log_actions": "526310711291543572",
+
+    "role_valide": "✔️ Vérifié",
+    "role_vip": "Donateurs",
+
+    "log_introuvable": "<:nonvalide:526332150224650240> <@!${message.author.id}> > Je ne trouve pas le channel de log ! <:nonvalide:526332150224650240>\nMerci de contacter ${config.author} !",
+    "action_owner": "<:nonvalide:526332150224650240> <@!${message.author.id}> > Tu peux pas faire ça !<:nonvalide:526332150224650240>\nSeulement __**${config.author}**__ peut faire ça."
+
+}
